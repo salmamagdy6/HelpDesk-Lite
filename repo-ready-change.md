@@ -24,3 +24,5 @@ The purpose of this change is to automatically escalate support tickets when the
 - Tested SLA breach scenario
 - Verified escalation action
 - Screenshots of successful workflow execution
+## Branch Workflow
+This change will be developed through a dedicated feature branch and reviewed through a pull request.
