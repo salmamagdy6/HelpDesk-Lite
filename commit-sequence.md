@@ -21,6 +21,8 @@ Add testing evidence and verification details
 
 Purpose:
 Shows how the change will be validated.
+## Verification
+Each commit represents a single logical step and makes the project history easier to understand.
 
 ---
 
