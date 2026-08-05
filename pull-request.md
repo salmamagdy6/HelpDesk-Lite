@@ -27,3 +27,9 @@ Incorrect SLA configuration may cause unnecessary escalations.
 ## Not Included
 - UI changes
 - New support features
+
+## Additional Notes
+This pull request is limited to the SLA auto-escalation feature and excludes unrelated Sprint work.## Additional Notes
+This pull request is limited to the SLA auto-escalation feature and excludes unrelated Sprint work.## Additional Notes
+This pull request is limited to the SLA auto-escalation feature and excludes unrelated Sprint work.## Additional Notes
+This pull request is limited to the SLA auto-escalation feature and excludes unrelated Sprint work.
