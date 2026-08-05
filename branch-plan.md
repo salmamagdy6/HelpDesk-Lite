@@ -15,3 +15,5 @@ This branch isolates the SLA auto-escalation feature and connects it to Jira ite
 - UI redesign
 - New ticket categories
 - Authentication changes
+## Branch Benefits
+Using a dedicated feature branch keeps the SLA auto-escalation work isolated from unrelated changes, making reviews and testing easier.
